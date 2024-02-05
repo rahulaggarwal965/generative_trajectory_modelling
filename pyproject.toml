@@ -1,0 +1,9 @@
+[project]
+name = "generative_trajectory_modelling"
+version = "0.0.0"
+authors= [
+    { name = "Rahul Aggarwal", email="rahulaggarwal965@gmail.com" }
+]
+
+[tool.setuptools]
+packages = ["generative_trajectory_modelling"]
